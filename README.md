@@ -3,3 +3,5 @@ Bem-vindo(a) ao Readme Template! Aqui você encontrará uma variedade de modelos
 
 Templates de perfil ☕️
 Diga adeus aos perfis sem graça. Com nossos templates de perfil, você terá um readme de perfil incrível. Com cores vibrantes, imagens surpreendentes e outros elementos visuais cativantes.
+
+Aula 01 Resumo
